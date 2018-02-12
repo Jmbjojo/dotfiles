@@ -12,3 +12,5 @@ content:
 > sudo apt-get install cowsay
 2. Install dotfiles
 > git clone https://github.com/Jmbjojo/dotfiles.git
+
+![prompt](https://github.com/Jmbjojo/dotfiles/blob/master/bash.prompt.JPG)
